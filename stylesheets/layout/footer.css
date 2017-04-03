@@ -1,0 +1,12 @@
+/* Footer design */
+/* line 3, /Users/lucianomontezzo/code/lmontezzo/airbnb-static/source/stylesheets/layout/footer.css.scss */
+.footer {
+  background-color: #696969;
+  padding: 30px;
+  color: #FFF;
+  font-weight: bold; }
+
+/* line 10, /Users/lucianomontezzo/code/lmontezzo/airbnb-static/source/stylesheets/layout/footer.css.scss */
+.footer i {
+  color: #FFF;
+  padding-right: 25px; }
