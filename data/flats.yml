@@ -1,0 +1,20 @@
+seb:
+  avatar: seb.jpg
+  city: Paris
+  place: Seb's place
+  description: A nice place!
+  background: card-paris.jpg
+
+anne:
+  avatar: anne.jpg
+  city: Brussels
+  place: Anne's place
+  description: A cosy place!
+  background: card-brussels.jpeg
+
+romain:
+  avatar: romain.jpeg
+  city: London
+  place: Romain's place
+  description: A central place!
+  background: card-london.jpeg

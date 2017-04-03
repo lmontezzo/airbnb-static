@@ -23,3 +23,54 @@
 .bg-facebook {
   background: #3b5998;
 }
+
+body {
+  margin: 0;
+  font-family: Open-sans, sans-serif;
+  font-weight: 300;
+  color: #696969;
+}
+h1, h2, h3 {
+  font-family: Palanquin, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+h1 {
+  font-weight: 600;
+  line-height: 1em;
+}
+.text-center {
+  text-align: center;
+}
+
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+.padded {
+  padding: 100px 0;
+}
+.wrapper-grey {
+  background: #F4F4F4;
+  padding: 40px 0;
+}
+
+.wrapper-grey > h2 {
+  margin-bottom: 40px;
+}
+
+img {
+  width: 100px;
+}

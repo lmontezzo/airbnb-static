@@ -1,0 +1,47 @@
+/* Your card CSS code here */
+.card {
+  background-size: cover;
+  width: 100%;
+  height: 250px;
+  border-radius: 5px;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.card-title {
+  color: #FFF;
+  opacity: 0.9;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+  position: absolute;
+  left: 15px;
+  top: -15px;
+}
+
+.card-subtitle {
+  color: #FFF;
+  opacity: 0.9;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+  position: absolute;
+  left: 15px;
+  bottom: 40px;
+  line-height: 1em;
+  text-align: left;
+}
+
+.card-text {
+  color: #FFF;
+  opacity: 0.9;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+  position: absolute;
+  left: 15px;
+  bottom: 10px;
+  line-height: 1em;
+  text-align: left;
+}
+
+.card img {
+  position: absolute;
+  right: 15px;
+  top: 10px;
+}
+/* Card design */
